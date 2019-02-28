@@ -1,1 +1,4 @@
-// add solution here
+function theBeatlesPlay(muscians,instruments){
+  var empty =({})
+  for { var i = 0,
+}
